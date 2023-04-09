@@ -18,8 +18,6 @@ Through this project, I gained valuable experience in time series forecasting us
 ![sample-time-seriese-analysis](https://user-images.githubusercontent.com/108201854/230750613-4b09c88b-f698-4f30-9bdc-b8778a997d4e.png)
 
 
-Sure, here's a sample text that you can use:
-
 # 2) Customer Segmentation using Clustering
 In this project, I explored the field of customer segmentation using clustering techniques. Customer segmentation is the process of dividing customers into groups based on common characteristics or behaviors. This can be useful for businesses to better understand their customers, tailor their marketing strategies, and improve their products and services.
 
